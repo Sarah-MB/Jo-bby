@@ -1,0 +1,425 @@
+                                            div {
+                                            display: grid;
+                                            grid-gap: 5px;
+                                            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+                                            grid-template-rows: repeat(3, 100px);
+                                        }
+                                        
+                                        .logo {
+                                            /* VAR */
+                                            position: absolute;
+                                            width: 303px;
+                                            height: 144px;
+                                            left: 76.91px;
+                                            top: 33px;
+                                            font-family: Wallpoet;
+                                            font-style: normal;
+                                            font-weight: normal;
+                                            font-size: 135px;
+                                            line-height: 135px;
+                                            text-align: center;
+                                            color: #11CDFC;
+                                        }
+                                        
+                                        input {
+                                            /* Rectangle 23 */
+                                            position: absolute;
+                                            width: 580px;
+                                            height: 67px;
+                                            left: 793px;
+                                            top: 84.86px;
+                                            background: #EBFEFE;
+                                        }
+                                        
+                                         ::placeholder {
+                                            /* SEARCH FOR SERVICE ... */
+                                            position: absolute;
+                                            width: 447px;
+                                            height: 46px;
+                                            left: 770px;
+                                            top: calc(50% - 46px/2 - 591.11px);
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: bold;
+                                            font-size: 22px;
+                                            line-height: 133.19%;
+                                            /* or 29px */
+                                            text-align: left;
+                                            letter-spacing: 0.275em;
+                                            color: #ffffff;
+                                            animation: alternate;
+                                        }
+                                        
+                                        .search {
+                                            /* SEARCH */
+                                            position: absolute;
+                                            width: 169px;
+                                            height: 49px;
+                                            left: 1000px;
+                                            top: 55.86px;
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: bold;
+                                            font-size: 39px;
+                                            line-height: 46px;
+                                            /* identical to box height */
+                                            color: #EEEEEE;
+                                        }
+                                        
+                                        #mySearch {
+                                            /* Rectangle 24 */
+                                            position: absolute;
+                                            width: 169px;
+                                            height: 49px;
+                                            left: 1190px;
+                                            top: 95.86px;
+                                            background: #11CDFC;
+                                        }
+                                        
+                                        .logo-text {
+                                            /* ASSISTANCE IS A CLICK AWAY */
+                                            position: absolute;
+                                            width: 336px;
+                                            height: 19px;
+                                            left: 157.91px;
+                                            top: 155px;
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            font-size: 16px;
+                                            line-height: 98.2%;
+                                            /* or 16px */
+                                            text-align: center;
+                                            letter-spacing: 0.01em;
+                                            color: #441420;
+                                        }
+                                        
+                                        .border1 {
+                                            /* Line 7 */
+                                            position: absolute;
+                                            width: 1291.01px;
+                                            height: 0px;
+                                            left: 158px;
+                                            top: 212.86px;
+                                            border: 5px solid rgba(17, 205, 252, 0.5);
+                                            transform: rotate(-0.17deg);
+                                        }
+                                        
+                                        #nav {
+                                            /* istockphoto-1143067205-1024x1024 2 */
+                                            position: absolute;
+                                            width: 74px;
+                                            height: 73px;
+                                            left: 84px;
+                                            top: 176.86px;
+                                            background: url(istockphoto-1143067205-1024x1024.jpg);
+                                            border-radius: 164.5px;
+                                        }
+                                        
+                                        .profile-text {
+                                            /* PROFILE */
+                                            position: absolute;
+                                            width: 550px;
+                                            height: 108px;
+                                            left: 158px;
+                                            top: 282px;
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: bold;
+                                            font-size: 55px;
+                                            line-height: 64px;
+                                            text-align: center;
+                                            letter-spacing: 0.42em;
+                                            color: #50232E;
+                                        }
+                                        
+                                        .line2 {
+                                            /* Line 2 */
+                                            position: absolute;
+                                            width: 1298px;
+                                            height: 0px;
+                                            left: 150.91px;
+                                            top: 1473px;
+                                            border: 8px solid rgba(17, 205, 252, 0.5);
+                                        }
+                                        
+                                        #box1 {
+                                            /* Rectangle 50 */
+                                            position: absolute;
+                                            width: 697px;
+                                            height: 86px;
+                                            left: 103px;
+                                            top: 436px;
+                                            background: linear-gradient(0deg, rgba(17, 205, 252, 0.22), rgba(17, 205, 252, 0.22)), rgba(17, 205, 252, 0.22);
+                                        }
+                                        
+                                        #box2 {
+                                            /* Rectangle 51 */
+                                            position: absolute;
+                                            width: 697px;
+                                            height: 86px;
+                                            left: 103px;
+                                            top: 550px;
+                                            background: linear-gradient(0deg, rgba(17, 205, 252, 0.22), rgba(17, 205, 252, 0.22)), rgba(17, 205, 252, 0.22);
+                                        }
+                                        
+                                        #box3 {
+                                            /* Rectangle 52 */
+                                            position: absolute;
+                                            width: 697px;
+                                            height: 86px;
+                                            left: 103px;
+                                            top: 666px;
+                                            background: linear-gradient(0deg, rgba(17, 205, 252, 0.22), rgba(17, 205, 252, 0.22)), rgba(17, 205, 252, 0.22);
+                                        }
+                                        
+                                        #box4 {
+                                            /* Rectangle 53 */
+                                            position: absolute;
+                                            width: 697px;
+                                            height: 211px;
+                                            left: 98px;
+                                            top: 786px;
+                                            background: linear-gradient(0deg, rgba(17, 205, 252, 0.22), rgba(17, 205, 252, 0.22)), rgba(17, 205, 252, 0.22);
+                                        }
+                                        
+                                        #box5 {
+                                            /* Rectangle 56 */
+                                            position: absolute;
+                                            width: 697px;
+                                            height: 86px;
+                                            left: 100px;
+                                            top: 1025px;
+                                            background: linear-gradient(0deg, rgba(17, 205, 252, 0.22), rgba(17, 205, 252, 0.22)), rgba(17, 205, 252, 0.22);
+                                        }
+                                        
+                                        #box6 {
+                                            /* Rectangle 57 */
+                                            position: absolute;
+                                            width: 276px;
+                                            height: 141px;
+                                            left: 103px;
+                                            top: 1150px;
+                                            background: linear-gradient(0deg, rgba(17, 205, 252, 0.22), rgba(17, 205, 252, 0.22)), rgba(17, 205, 252, 0.22);
+                                        }
+                                        
+                                        #edit {
+                                            /* Rectangle 58 */
+                                            position: absolute;
+                                            width: 127px;
+                                            height: 54px;
+                                            left: 653px;
+                                            top: 1204px;
+                                            background: #1AAF17;
+                                        }
+                                        
+                                        .pic {
+                                            /* imgbin-authentication-computer-icons-verified-NKUF0beNz2kGCMPzfrwFkALec 8 */
+                                            position: absolute;
+                                            width: 139px;
+                                            height: 140px;
+                                            left: 1080px;
+                                            top: 277px;
+                                            background: url(imgbin-authentication-computer-icons-verified-NKUF0beNz2kGCMPzfrwFkALec.jpg);
+                                            border-radius: 298.5px;
+                                        }
+                                        
+                                        #callF {
+                                            /* Rectangle 24 */
+                                            position: absolute;
+                                            width: 127px;
+                                            height: 43px;
+                                            left: 1090px;
+                                            top: 782px;
+                                            background: #1AAF17;
+                                            text-align: center;
+                                            text-decoration: white;
+                                        }
+                                        
+                                        .text-paper {
+                                            /* Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla porro ullam totam corporis nostrum assumenda. */
+                                            position: absolute;
+                                            width: 402px;
+                                            height: 409px;
+                                            left: 962px;
+                                            top: 459px;
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: bold;
+                                            font-size: 35px;
+                                            line-height: 41px;
+                                            text-align: center;
+                                            color: #000000;
+                                        }
+                                        
+                                        .sponsor {
+                                            /* imgbin-help-desk-technical-support-customer-service-business-3d-sketch-technical-support-person-wearing-headset-illustration-Eij9UsRQQg04FSMcgzxjafzAB 1 */
+                                            position: absolute;
+                                            width: 80px;
+                                            height: 74px;
+                                            left: 70.91px;
+                                            top: 1436px;
+                                            background: url(imgbin-help-desk-technical-support-customer-service-business-3d-sketch-technical-support-person-wearing-headset-illustration-Eij9UsRQQg04FSMcgzxjafzAB.jpg);
+                                            border-radius: 150px;
+                                        }
+                                        
+                                        .border {
+                                            /* Line 2 */
+                                            position: absolute;
+                                            width: 1298px;
+                                            height: 0px;
+                                            left: 150.91px;
+                                            top: 1473px;
+                                            border: 8px solid rgba(17, 205, 252, 0.5);
+                                        }
+                                        
+                                        .powered {
+                                            /* POWERED BY; */
+                                            position: absolute;
+                                            width: 129px;
+                                            height: 25px;
+                                            left: 122.91px;
+                                            top: 1493px;
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: normal;
+                                            font-size: 16px;
+                                            line-height: 19px;
+                                            text-align: center;
+                                            color: #000000;
+                                        }
+                                        
+                                        .sima {
+                                            /* sima animation 1 */
+                                            position: absolute;
+                                            width: 128px;
+                                            height: 24px;
+                                            left: 135.91px;
+                                            top: 1511px;
+                                            background: url(sima animation.png);
+                                            mix-blend-mode: normal;
+                                        }
+                                        
+                                        .contact-text {
+                                            /* CONTACT US */
+                                            position: absolute;
+                                            width: 129px;
+                                            height: 21px;
+                                            left: 365.91px;
+                                            top: 1508px;
+                                            font-family: Rubik One;
+                                            font-style: normal;
+                                            font-weight: normal;
+                                            font-size: 18px;
+                                            line-height: 22px;
+                                            text-align: center;
+                                            color: #1AAF17;
+                                        }
+                                        
+                                        .call {
+                                            /* imgbin-logo-telephone-call-icon-green-phone-symbol-green-incoming-call-illustration-c7Zj6HKndGGXLc6eLcvx313ky 1 */
+                                            position: absolute;
+                                            width: 55px;
+                                            height: 45px;
+                                            left: 535.91px;
+                                            top: 1498px;
+                                            background: url(imgbin-logo-telephone-call-icon-green-phone-symbol-green-incoming-call-illustration-c7Zj6HKndGGXLc6eLcvx313ky.jpg);
+                                            border-radius: 54px;
+                                        }
+                                        
+                                        .whatsapp {
+                                            /* imgbin-whatsapp-logo-whatsapp-whatsapp-logo-UBd989PM32apNnWJLnCuzmmAY 1 */
+                                            position: absolute;
+                                            width: 56px;
+                                            height: 49px;
+                                            left: 809.91px;
+                                            top: 1498px;
+                                            background: url(imgbin-whatsapp-logo-whatsapp-whatsapp-logo-UBd989PM32apNnWJLnCuzmmAY.jpg);
+                                            border-radius: 54.5px;
+                                        }
+                                        
+                                        .email {
+                                            /* imgbin-triangle-text-brand-communication-gmail-gmail-logo-7rL17Yd3DhhWGUcksPYffCa9S 2 */
+                                            position: absolute;
+                                            width: 56px;
+                                            height: 41px;
+                                            left: 1082.91px;
+                                            top: 1502px;
+                                            background: url(imgbin-triangle-text-brand-communication-gmail-gmail-logo-7rL17Yd3DhhWGUcksPYffCa9S.jpg);
+                                            border-radius: 70px;
+                                        }
+                                        
+                                        .paper {
+                                            /* Rectangle 23 */
+                                            position: absolute;
+                                            width: 430px;
+                                            height: 545px;
+                                            left: 943px;
+                                            top: 338px;
+                                            background: #11CDFC;
+                                        }
+                                        
+                                        #text-cal {
+                                            /* +234 815 108 8643 */
+                                            position: absolute;
+                                            width: 228px;
+                                            height: 35px;
+                                            left: 570.91px;
+                                            top: 1508px;
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            font-size: 19px;
+                                            line-height: 22px;
+                                            text-align: center;
+                                            color: #000000;
+                                            text-decoration: none;
+                                        }
+                                        
+                                        #text-whatsapp {
+                                            /* +234 815 108 8643 */
+                                            position: absolute;
+                                            width: 259px;
+                                            height: 25px;
+                                            left: 823.91px;
+                                            top: 1511px;
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            font-size: 19px;
+                                            line-height: 22px;
+                                            text-align: center;
+                                            color: #000000;
+                                            text-decoration: none;
+                                        }
+                                        
+                                        #text-email {
+                                            /* Osigobo@gmail.com */
+                                            position: absolute;
+                                            width: 228px;
+                                            height: 35px;
+                                            left: 1124.91px;
+                                            top: 1511px;
+                                            font-family: Roboto;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            font-size: 22px;
+                                            line-height: 26px;
+                                            text-align: center;
+                                            color: #000000;
+                                            text-decoration: none;
+                                        }
+                                        
+                                        ul {
+                                            text-decoration: none;
+                                            font-size: 19px;
+                                            color: #441420;
+                                            position: absolute;
+                                            background-color: #11CDFC;
+                                            width: 200px;
+                                            height: 250px;
+                                            left: 0;
+                                            top: 200px;
+                                            visibility: hidden;
+                                            opacity: 100%;
+                                            bo
